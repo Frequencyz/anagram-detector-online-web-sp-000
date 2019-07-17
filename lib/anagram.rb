@@ -1,5 +1,5 @@
 # Your code goes here!
-class Anagrams
+class Anagram
 
  def initialize(word)
    @word = word

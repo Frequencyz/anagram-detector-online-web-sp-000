@@ -1,8 +1,8 @@
 # Your code goes here!
 class Anagrams
 
- def initialize(anagram)
-  @anagram = anagram
+ def initialize
+  self.new
  end
   
 end

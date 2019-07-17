@@ -1,7 +1,8 @@
 # Your code goes here!
 class Anagrams
 
- def initialize
+ def initialize(anagram)
+   @anagram = anagram
  end
   
 end
